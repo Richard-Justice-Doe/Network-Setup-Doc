@@ -154,6 +154,10 @@ show ip interface brief
 - Add **security configurations** such as **ACLs and port security**.
 
 ---
+![Screenshot (34)](https://github.com/user-attachments/assets/7ef5ba37-8cc0-4fa0-ae5b-d179ef12e798)
+![Screenshot (37)](https://github.com/user-attachments/assets/85cadcfe-ade0-40e2-9439-17ff3a4d0c48)
+![Screenshot (36)](https://github.com/user-attachments/assets/41d56f65-bb53-4b56-aff5-37007b68b68d)
+![Screenshot (35)](https://github.com/user-attachments/assets/baa1ad00-7980-4750-8cda-c76762948271)
 
 ### **Author**
-📌 _Published on GitHub_ 🚀
+📌 _Richard Justice Doe_ 🚀
